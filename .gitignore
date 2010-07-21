@@ -1,8 +1,9 @@
 .bundle
 db/*.sqlite3*
-db/*.mysql*
 log/*.log
 *.log
+*.sql
+config/*database.yml
 tmp/**/*
 tmp/*
 doc/api
