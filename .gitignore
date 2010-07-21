@@ -3,7 +3,7 @@ db/*.sqlite3*
 log/*.log
 *.log
 *.sql
-config/*database.yml
+config/database.yml
 tmp/**/*
 tmp/*
 doc/api
